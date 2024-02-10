@@ -1,4 +1,4 @@
-https://umn.zoom.us/j/3773915026
+
 # PPALMS VERSION 0.2 (Updated 12/12/22)
 ### William Yang, Ryan Yang, Keean Laferriere, Leo Cui
 # Description
